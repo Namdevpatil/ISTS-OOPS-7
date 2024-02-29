@@ -1,0 +1,4 @@
+1. private: class-level scope
+2. default(no-keyword): package-level scope
+3. protected: inherited-level scope
+4. public: universal scope

@@ -1,0 +1,18 @@
+1. Java Arrays and its Types
+2. Java Strings and its methods
+3. Wrapper Classes*
+4. Inner classes*
+5. Exception Handling*
+6. File handling*
+7. Multithreading and Sysnchronization*
+8. Java Collections*
+	- List
+	- Set
+	- Queue
+	- Map
+9. Java 8 new features*
+	- Lambda Expressions
+	- Functional Interface and Inbuilt Functional Interfaces
+	- Method Refererncing
+	- Stream API
+	- Data and Time.

@@ -1,0 +1,36 @@
+1. About OOPS in Java
+2. Class and It properties
+	- fields: static and non-static fields
+	- constructors: default/zero parameterized constructor and parameterized constructor
+	- blocks: static and instance initializer block
+	- methods: static and non-static methods
+	- inner classes
+
+3. Objects and How to create/instanciate an Object
+4. About 'new' keyword
+5. Object initialization using Constructors
+6. About Constructor and Its types
+7. About Fields and its types
+8. About Methods and its types
+9. About 'this' keyword
+10. OOPS principles
+	- Encapsulation
+	- Inheritance: 5 types
+	- Polymorphism
+		- static/compile Polymorphism
+		- dynamic/runtime Polymorphism
+	- Abstraction
+
+11. About Object class and its methods*
+12. About Access Modifiers
+13. Object Cloning*
+14. About final and super keyword
+15. Types of Java Classes
+		- Normal/Concrete Class
+		- Abstract class
+		- Interface
+
+16. About abstract methods*
+
+
+
